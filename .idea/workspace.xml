@@ -37,6 +37,7 @@
   "keyToString": {
     "Python.1.executor": "Run",
     "Python.2.executor": "Run",
+    "Python.3.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
